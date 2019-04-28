@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0e777b830bd6f1409e0ed58b38dc7e4, type: 3}
+  m_Name: Rock
+  m_EditorClassIdentifier: 
+  growth: 0
+  max: 0
+  split: 0
+  commitFactor: 0
+  transfer: 0
+  attack: 0
+  attackFac: 5
+  attackCommit: 0
+  defendFactor: 1
